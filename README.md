@@ -1,6 +1,7 @@
 ### 🌸 Hey there! Welcome to my GitHub! 🌸  
 
 I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 🛡️💻
+
 I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/)
 
 ---

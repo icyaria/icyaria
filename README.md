@@ -1,6 +1,7 @@
 ### 🌸 Hey there! Welcome to my GitHub! 🌸  
 
 I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 🛡️💻
+I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/)
 
 ---
 
@@ -14,6 +15,8 @@ I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethica
   <img src="https://img.shields.io/badge/-OpenGL-4298B8?style=flat-square&logo=opengl&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---

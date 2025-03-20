@@ -21,7 +21,7 @@ I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethica
 ### Projects
 
 - **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – Developed a Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
-- 
+
 - **[OpenGL Phong lighting](https://github.com/icyaria/opengl_project)** – Implemented Phong lighting in a 3D environment using OpenGL. The project features a rotating sphere that dynamically lights up a face, with user-controlled camera movements.
 
 - **[Exam Timetabling](https://github.com/icyaria/exam-timetabling)** – Developed a solution to the Exam Timetabling Problem using Constraint Satisfaction Problems (CSPs), aiming to generate exam schedules while adhering to various constraints such as room availability and professor schedules.

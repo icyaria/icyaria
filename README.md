@@ -32,7 +32,7 @@ I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommun
   
 - **[University Management System](https://github.com/icyaria/University-Management-System)** – Designed and implemented a system to manage data of students, professors, and courses in a university setting. The system supports multiple user roles, including Secretary, Professor, and Student, each with specific functionalities.
   
-- **[More Coming Soon!](#)** 🚧✨
+- **[More Coming Soon!](#)** 🚧
 
 ---
 

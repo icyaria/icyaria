@@ -36,7 +36,7 @@ I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommun
 
 ---
 
-### 🎀 A Fun Fact About Me
+### Here's a fun fact about me 🎀
 > *"During an online mystery-solving event, I joined a 'computer forensics team' to analyze clues, decrypt messages, and piece together evidence. It was all for fun, but it sparked my love for cybersecurity!"* 
 
 ---
@@ -47,4 +47,4 @@ I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommun
 
 ---
 
-🍓 *Thanks for stopping by! Feel free to explore my projects and reach out if you're interested in collaborating or discussing anything related to cybersecurity, ethical hacking, or tech! *
+🍓 Thanks for stopping by! Feel free to explore my projects and reach out if you're interested in collaborating or discussing anything related to cybersecurity, ethical hacking, or tech!

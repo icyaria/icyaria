@@ -1,6 +1,6 @@
-### 🌸 Hey there! Welcome to my GitHub! 🌸  
+### 🌸 Hey there! Welcome to my GitHub! 
 
-I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 🛡️💻
+I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 
 
 I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/)
 
@@ -37,7 +37,7 @@ I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommun
 ---
 
 ### 🎀 A Fun Fact About Me
-> *"During an online mystery-solving event, I joined a 'computer forensics team' to analyze clues, decrypt messages, and piece together evidence. It was all for fun, but it sparked my love for cybersecurity!"* ✨
+> *"During an online mystery-solving event, I joined a 'computer forensics team' to analyze clues, decrypt messages, and piece together evidence. It was all for fun, but it sparked my love for cybersecurity!"* 
 
 ---
 

@@ -1,4 +1,4 @@
-### 🌸 Hey there! Welcome to my GitHub! 
+### Welcome to my GitHub! 🌱
 
 I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 
 

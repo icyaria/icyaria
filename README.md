@@ -2,9 +2,9 @@
 
 My name is Maria and I'm a B.Sc. student at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/).
 
-I'm currently trying to build a strong foundation in the tech world while taking my first steps in Cybersecurity.
+I'm currently trying to build a strong foundation in the comp-science world while taking my first steps in Cybersecurity.
 
-As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection and security but in my free time, I trade screens for trails, mountains and adventures! ⛺🎒🌄
+As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection and security but in my free time, I'll trade all my tech for trails, mountains and adventures! ⛺🎒🌄
 
 ---
 

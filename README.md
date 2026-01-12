@@ -52,4 +52,4 @@ As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection 
 
 ---
 
-🍓 Thanks for stopping by! Feel free to explore my projects and reach out if you're interested in collaborating or discussing anything related to cybersecurity, ethical hacking, or tech!
+🍓 Thanks for stopping by! Feel free to explore my projects and reach out if you're interested in collaborating or discussing anything tech!

@@ -1,12 +1,14 @@
 ### Welcome to my GitHub! 🌱
 
-I'm Maria Kapaki, an aspiring cybersecurity professional passionate about ethical hacking and digital forensics! 
+My name is Maria and I'm a B.Sc. student at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/).
 
-I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/)
+I'm currently trying to build a strong foundation in the tech world while taking my first steps in Cybersecurity.
+
+As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection and security but in my free time, I trade screens for trails, mountains and adventures! ⛺🎒🌄
 
 ---
 
-### Skills & Tools
+### Tools & Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
@@ -18,19 +20,20 @@ I'm currently pursuing my B.Sc. in the [Department of Informatics and Telecommun
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=math&logoColor=white"/>
 </p>
 
 ---
 
 ### Projects
 
-- **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – Developed a Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
+- **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – A Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
 
 - **[OpenGL Phong lighting](https://github.com/icyaria/opengl_project)** – Implemented Phong lighting in a 3D environment using OpenGL. The project features a rotating sphere that dynamically lights up a face, with user-controlled camera movements.
 
-- **[Exam Timetabling](https://github.com/icyaria/exam-timetabling)** – Developed a solution to the Exam Timetabling Problem using Constraint Satisfaction Problems (CSPs), aiming to generate exam schedules while adhering to various constraints such as room availability and professor schedules.
+- **[Exam Timetabling](https://github.com/icyaria/exam-timetabling)** – A solution for exam scheduling using CSPs, handling constraints like room availability and professor schedules.
   
-- **[University Management System](https://github.com/icyaria/University-Management-System)** – Designed and implemented a system to manage data of students, professors, and courses in a university setting. The system supports multiple user roles, including Secretary, Professor, and Student, each with specific functionalities.
+- **[University Management System](https://github.com/icyaria/University-Management-System)** – A system to manage university data for students, professors, and courses, supporting multiple user roles like Secretary, Professor, and Student each with their own functionalities.
   
 - **[More Coming Soon!](#)** 🚧
 

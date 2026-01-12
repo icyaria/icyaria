@@ -27,9 +27,9 @@ As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection 
 
 ### Projects
 
-- **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – A Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
-
 - **[BMW X1 Chatbot - Makeathon](https://github.com/icyaria/makeathon)** – Hackathon project in collaboration with Smart Rep. A document-based Q&A system using LLM technology to answer questions about the BMW X1 manual. The project uses a React frontend with a chat interface, a Python FastAPI backend for LLM integration, and Docker Compose for deployment.
+
+- **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – A Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
 
 - **[OpenGL Phong lighting](https://github.com/icyaria/opengl_project)** – Implemented Phong lighting in a 3D environment using OpenGL. The project features a rotating sphere that dynamically lights up a face, with user-controlled camera movements.
 

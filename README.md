@@ -29,13 +29,15 @@ As an intern at [IPTO](https://www.admie.gr/en), I focus on OT threat detection 
 
 - **[Docker Scout Pipeline](https://github.com/icyaria/docker-scout-pipeline)** – A Continuous Integration pipeline that integrates Docker Scout to analyze Docker images for vulnerabilities during the build process.
 
+- **[BMW X1 Chatbot - Makeathon](https://github.com/icyaria/makeathon)** – Hackathon project in collaboration with Smart Rep. A document-based Q&A system using LLM technology to answer questions about the BMW X1 manual. The project uses a React frontend with a chat interface, a Python FastAPI backend for LLM integration, and Docker Compose for deployment.
+
 - **[OpenGL Phong lighting](https://github.com/icyaria/opengl_project)** – Implemented Phong lighting in a 3D environment using OpenGL. The project features a rotating sphere that dynamically lights up a face, with user-controlled camera movements.
 
 - **[Exam Timetabling](https://github.com/icyaria/exam-timetabling)** – A solution for exam scheduling using CSPs, handling constraints like room availability and professor schedules.
   
-- **[University Management System](https://github.com/icyaria/University-Management-System)** – A system to manage university data for students, professors, and courses, supporting multiple user roles like Secretary, Professor, and Student each with their own functionalities.
+- **[Web-App Movie Management](https://github.com/icyaria/Web-App-Movie-Management)** – A system to manage university data for students, professors, and courses, supporting multiple user roles like Secretary, Professor, and Student each with their own functionalities.
   
-- **[More Coming Soon!](#)** 🚧
+- **[University Management System](https://github.com/icyaria/University-Management-System)** – A web app to manage movie and actor data using Python, MySQL, and Bottle.
 
 ---
 
